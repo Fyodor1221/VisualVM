@@ -1,9 +1,10 @@
-#Исследование JVM через VisualVM
-Вывод консоли в результате работы программы:
+# Исследование JVM через VisualVM
+
+## Вывод консоли в результате работы программы:
 
 ![console](./console.jpg)
 
-Скриншоты из VirtualVM:
+## Скриншоты из VirtualVM:
 * Нагрузка на CPU и заполнение Metaspace
 
 ![CPU+Metaspace](./metaspace_CPU.jpg)
